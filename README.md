@@ -25,12 +25,14 @@ sudo apt-get install gcc
 Com isso estará pronto para rodar a calculadora no ubuntu.
 
 ### Arch Linux/Derivados:
+![Arch](https://seeklogo.com/images/A/archlinux-logo-1159446C2C-seeklogo.com.png)
 ```
 pacman -Syu gcc
 ```
 
 Com isso estará pronto para rodar a calculadora no arch.
 ### Gentoo/Derivados:
+![Gentoo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/12/gentoo_logo.jpg)
 ```
 sudo emerge -u sys-devel/gcc
 ```

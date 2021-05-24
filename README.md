@@ -18,21 +18,21 @@ Caso não tenha o GCC instalado.
 Faça isso:
 
 ### Ubuntu/Derivados:
-![Ubuntu](https://e-tinet.com/wp-content/uploads/2013/06/ubuntu-logo-configuracao-dual-boot-windows83-2.png)
+![Ubuntu](https://plus.diolinux.com.br/uploads/default/original/2X/5/5fbbe01c492a84e01ec1dc828205e06db2f0a52e.png)
 ```
 sudo apt-get install gcc
 ```
 Com isso estará pronto para rodar a calculadora no ubuntu.
 
 ### Arch Linux/Derivados:
-![Arch](https://seeklogo.com/images/A/archlinux-logo-1159446C2C-seeklogo.com.png)
+![Arch](https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-128.png)
 ```
 pacman -Syu gcc
 ```
 
 Com isso estará pronto para rodar a calculadora no arch.
 ### Gentoo/Derivados:
-![Gentoo](https://upload.wikimedia.org/wikipedia/commons/1/19/Gentoo_Logo_Vector.svg)
+![Gentoo](https://www.shareicon.net/data/128x128/2015/09/17/102431_gentoo_512x512.png)
 ```
 sudo emerge -u sys-devel/gcc
 ```

@@ -32,7 +32,7 @@ pacman -Syu gcc
 
 Com isso estará pronto para rodar a calculadora no arch.
 ### Gentoo/Derivados:
-![Gentoo](https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2012/12/gentoo_logo.jpg)
+![Gentoo](https://upload.wikimedia.org/wikipedia/commons/1/19/Gentoo_Logo_Vector.svg)
 ```
 sudo emerge -u sys-devel/gcc
 ```

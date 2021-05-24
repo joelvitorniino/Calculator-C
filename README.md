@@ -18,6 +18,7 @@ Caso não tenha o GCC instalado.
 Faça isso:
 
 ### Ubuntu/Derivados:
+![Ubuntu](https://e-tinet.com/wp-content/uploads/2013/06/ubuntu-logo-configuracao-dual-boot-windows83-2.png)
 ```
 sudo apt-get install gcc
 ```

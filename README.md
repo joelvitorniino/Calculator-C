@@ -40,26 +40,25 @@ sudo emerge -u sys-devel/gcc
 Com isso estará pronto para rodar a calculadora no gentoo.
 
 ## Linux ##
-Para rodar esta calculadora no linux, certifique-se que tenha instalado o gcc.
 
 Soma:
 ```
 gcc src/soma.c -o soma
-chmod +x ./soma
+sudo chmod +x ./soma
 ./soma
 ```
 
 Subtração:
 ```
 gcc src/subtracao.c -o subtracao
-chmod +x ./subtracao
+sudo chmod +x ./subtracao
 ./subtracao
 ```
 
 Multiplicação:
 ```
 gcc src/multiplicacao.c -o multiplicacao
-chmod +x ./multiplicacao
+sudo chmod +x ./multiplicacao
 ./multiplicacao
 ```
 

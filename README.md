@@ -21,8 +21,20 @@ Faça isso:
 ```
 sudo apt-get install gcc
 ```
+Com isso estará pronto para rodar a calculadora no ubuntu.
 
-Com isso estará pronto para rodar a calculadora.
+### Arch Linux/Derivados:
+```
+pacman -Syu gcc
+```
+
+Com isso estará pronto para rodar a calculadora no arch.
+### Gentoo/Derivados:
+```
+sudo emerge -u sys-devel/gcc
+```
+
+Com isso estará pronto para rodar a calculadora no gentoo.
 
 ## Linux ##
 Para rodar esta calculadora no linux, certifique-se que tenha instalado o gcc.

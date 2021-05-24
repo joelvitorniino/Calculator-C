@@ -7,3 +7,13 @@ Esta calculadora realiza as seguintes operações matemáticas:
 - Subtração
 - Multiplicação
 - Divisão
+
+## Linux ##
+Para rodar esta calculadora no linux, certifique-se que tenha instalado o gcc.
+
+- Soma:
+```
+gcc src/soma.c -o soma
+chmod +x ./soma
+./soma
+```

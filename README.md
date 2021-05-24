@@ -28,7 +28,7 @@ chmod +x ./subtracao
 Multiplicação:
 ```
 gcc src/multiplicacao.c -o multiplicacao
-chmod +x ./multiplicao
+chmod +x ./multiplicacao
 ./multiplicacao
 ```
 

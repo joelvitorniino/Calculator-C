@@ -8,6 +8,22 @@ Esta calculadora realiza as seguintes operações matemáticas:
 - Multiplicação
 - Divisão
 
+# Pré-Requisitos
+
+Caso esteja no linux é obrigatório ter:
+- GCC
+
+Caso não tenha o GCC instalado.
+
+Faça isso:
+
+### Ubuntu/Derivados:
+```
+sudo apt-get install gcc
+```
+
+Com isso estará pronto para rodar a calculadora.
+
 ## Linux ##
 Para rodar esta calculadora no linux, certifique-se que tenha instalado o gcc.
 

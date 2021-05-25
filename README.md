@@ -41,10 +41,12 @@ sudo emerge -u sys-devel/gcc
 Com isso estará pronto para rodar a calculadora no gentoo.
 
 ### Termux
-![Termux](https://en.apkshki.com/storage/1009/icon_5dd005b6529d6_1009_w256.png)
+![Termux](https://camo.githubusercontent.com/7e9e7ede781036f1190406b40e9813801ae1632070cabc00343a46d83c9fa025/687474703a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f626c61636b76617269616e742f627574746f6e2d75692d73797374656d2d617070732f3235362f5465726d696e616c2d69636f6e2e706e67)
 ```
 pkg install clang
 ```
+
+Com isso estará pronto para rodar a calculadora no termux.
 
 ## Linux ##
 

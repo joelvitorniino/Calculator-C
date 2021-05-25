@@ -105,6 +105,7 @@ Divisão:
 clang src/divisao.c -o divisao
 chmod +x ./divisao
 ./divisao
+```
 
 ### Automatização da Calculadora por meio de ShellScript
 

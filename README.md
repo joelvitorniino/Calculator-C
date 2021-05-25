@@ -19,7 +19,7 @@ Caso não tenha o GCC instalado.
 Faça isso:
 
 ### Ubuntu/Derivados:
-![Ubuntu](https://s3-eu-west-1.amazonaws.com/cdn.pbrd.co/images/K3A8P2V.jpg?o=1)
+![Ubuntu](https://image.prntscr.com/image/0cRVOsyzRc2jXj-qzEpL9w.jpg)
 ```
 sudo apt-get install gcc
 ```

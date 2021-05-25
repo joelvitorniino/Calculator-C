@@ -105,3 +105,13 @@ Divisão:
 clang src/divisao.c -o divisao
 chmod +x ./divisao
 ./divisao
+
+### Automatização da Calculadora por meio de ShellScript
+
+Caso queira automatizar este processo clique neste link: (https://github.com/joelvitorniino/CalculatorC-Shell)
+
+E siga os processos descritos na documentação.
+
+### Issue
+
+Qualquer dúvida que surgir em relação a forma de uso, deixe sua dúvida na aba "Issue".

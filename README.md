@@ -19,7 +19,7 @@ Caso não tenha o GCC instalado.
 Faça isso:
 
 ### Ubuntu/Derivados:
-![Ubuntu](https://plus.diolinux.com.br/uploads/default/original/2X/5/5fbbe01c492a84e01ec1dc828205e06db2f0a52e.png)
+![Ubuntu](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShdGM3dYibZJlyYK5BfrjxMy-o1IhHB9uJQQ&usqp=CAU)
 ```
 sudo apt-get install gcc
 ```
@@ -40,7 +40,7 @@ sudo emerge -u sys-devel/gcc
 
 Com isso estará pronto para rodar a calculadora no gentoo.
 
-### Termux
+### Termux:
 ![Termux](https://camo.githubusercontent.com/7e9e7ede781036f1190406b40e9813801ae1632070cabc00343a46d83c9fa025/687474703a2f2f69636f6e732e69636f6e617263686976652e636f6d2f69636f6e732f626c61636b76617269616e742f627574746f6e2d75692d73797374656d2d617070732f3235362f5465726d696e616c2d69636f6e2e706e67)
 ```
 pkg install clang

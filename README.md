@@ -19,7 +19,7 @@ Caso não tenha o GCC instalado.
 Faça isso:
 
 ### Ubuntu/Derivados:
-![Ubuntu](https://i.ibb.co/0ZzTNzc/logo-removebg-preview.png)
+![Ubuntu](https://arsennnic.github.io/files/Windows%20Subsystem%20for%20Linux/ubuntu_logo.ico)
 ```
 sudo apt-get install gcc
 ```

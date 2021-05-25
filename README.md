@@ -12,6 +12,7 @@ Esta calculadora realiza as seguintes operações matemáticas:
 
 Caso esteja no linux é obrigatório ter:
 - GCC
+- Clang (Termux)
 
 Caso não tenha o GCC instalado.
 
@@ -39,6 +40,12 @@ sudo emerge -u sys-devel/gcc
 
 Com isso estará pronto para rodar a calculadora no gentoo.
 
+### Termux
+![Termux](https://en.apkshki.com/storage/1009/icon_5dd005b6529d6_1009_w256.png)
+```
+pkg install clang
+```
+
 ## Linux ##
 
 Soma:
@@ -65,5 +72,34 @@ sudo chmod +x ./multiplicacao
 Divisão:
 ```
 gcc src/divisao.c -o divisao
+sudo chmod +x ./divisao
+./divisao
+```
+### Rodando C no Termux
+
+Soma:
+```
+clang src/soma.c -o soma
+chmod +x ./soma
+./soma
+```
+
+Subtração:
+```
+clang src/subtracao.c -o subtracao
+chmod +x ./subtracao
+./subtracao
+```
+
+Multiplicação:
+```
+clang src/multiplicacao.c -o multiplicacao
+chmod +x ./multiplicacao
+./multiplicacao
+```
+
+Divisão:
+```
+clang src/divisao.c -o divisao
 chmod +x ./divisao
 ./divisao
